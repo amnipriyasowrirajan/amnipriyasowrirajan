@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **amnipriya31@gmail.com**
 
-- ⚡ Fun fact **I am a huge fan of Rajinikanth.**
+- ⚡ Fun fact **I am a huge fan of Rajinikanth and Sachin Tendulkar.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
