@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://twitter.com/@amnipriya" target="blank"><img src="https://img.shields.io/twitter/follow/@amnipriya?logo=twitter&style=for-the-badge" alt="@amnipriya" /></a> </p>
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **Node**
 
 - 💬 Ask me about **laravel,php,PostgreSQL,javacript,mysql**
 
