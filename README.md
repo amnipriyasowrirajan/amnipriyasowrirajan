@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Node**
 
-- 💬 Ask me about **laravel,php,PostgreSQL,javacript,mysql**
+- 💬 Ask me about **React JS,laravel,php,PostgreSQL,javacript,mysql**
 
 - 📫 How to reach me **amnipriya31@gmail.com**
 
