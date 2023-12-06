@@ -6,9 +6,9 @@
 
 <p align="left"> <a href="https://twitter.com/@amnipriya" target="blank"><img src="https://img.shields.io/twitter/follow/@amnipriya?logo=twitter&style=for-the-badge" alt="@amnipriya" /></a> </p>
 
-- 🌱 I’m currently learning **Node**
+- 🌱 I’m currently learning **MongoDB **
 
-- 💬 Ask me about **React JS,laravel,php,PostgreSQL,javacript,mysql**
+- 💬 Ask me about **React JS,Node,laravel,php,PostgreSQL,javacript,mysql**
 
 - 📫 How to reach me **amnipriya31@gmail.com**
 
